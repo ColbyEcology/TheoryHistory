@@ -36,9 +36,3 @@
 	} # end of loop
 	end <- proc.time()
 	end - start
-	# u1 <- url_str
-	# u2 <- url_str
-	# url.exists(u1)
-	# url.exists(u2)
-	# !http_error(u1)
-	# !http_error(u2)	
